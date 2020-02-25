@@ -1,0 +1,20 @@
+{
+  "name": "npm-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "fontawesome": "^5.6.3",
+    "fullcalendar": "^3.10.1",
+    "datatable": "^2.0.2",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yen Yon",
+  "license": "MIT"
+}
